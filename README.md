@@ -2,7 +2,7 @@
 
 Learning fundamentals concepts of React 
 
-In this project I went deep in the hooks and components. 
+In this project I went deep in the hooks using useState and components. 
 
 Never stop learning!
 
